@@ -1,0 +1,17 @@
+.btn-category{
+    list-style: none;
+    background-color: var(--product-detail);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
+.category-list{
+    background-color: var(--bg-body);
+    position: sticky;
+    top: 36px;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;
+    gap: 10px;
+    padding: 15px;
+}

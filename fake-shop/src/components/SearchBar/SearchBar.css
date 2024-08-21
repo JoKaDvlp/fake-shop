@@ -1,0 +1,24 @@
+.search-bar{
+    width: 95%;
+    padding: 5px 10px;
+    background-color: white;
+    height: 50px;
+    border-radius: 25px;
+    margin: auto;
+}
+.search-bar button{
+    width: 10%;
+    border: none;
+    background-color: transparent;
+}
+.search-bar img{
+    width: 100%;
+    height: auto;
+}
+.search-bar input{
+    width: 80%;
+    border: none;
+}
+.search-bar form>img{
+    width: 10%;
+}

@@ -1,0 +1,31 @@
+.btn{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 8px 64px;
+    border-radius: 19px;
+    border: none;
+    font-size: 16px;
+    gap: 5px;
+}
+.btn img{
+    width: 22px;
+}
+.button-primary{
+    background-color: var(--primary);
+}
+.btn-inactif{
+    background-color: var(--light-grey);
+}
+.button-remove{
+    background-color: var(--light-grey);
+}
+.button-plus-minus{
+    font-size: 1.2rem;
+    background-color: var(--light-grey);
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+    border: none;
+}

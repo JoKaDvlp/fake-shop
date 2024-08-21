@@ -1,0 +1,25 @@
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 0 18px;
+    height: 36px;
+    gap: 15px;
+    background-color: var(--bg-body);
+}
+header a{
+    display: flex;
+}
+header img{
+    width: 24px;
+}
+header button{
+    border: none;
+    background-color: transparent;
+}
+header h2{
+    font-size: 18px;
+}
+header .arrow{
+    width: 32px;
+}
